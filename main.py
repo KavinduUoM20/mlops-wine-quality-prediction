@@ -1,0 +1,8 @@
+from mlopsproject import logger
+# from mlopsproject.pipeline.stage_01_data_ingestion import DataIngestionTrainingPipeline
+# from mlopsproject.pipeline.stage_02_data_validation import DataValidationTrainingPipeline
+# from mlopsproject.pipeline.stage_03_data_transformation import DataTransformationTrainingPipeline
+# from mlopsproject.pipeline.stage_04_model_trainer import ModelTrainerTrainingPipeline
+# from mlopsproject.pipeline.stage_05_model_evaluation import ModelEvaluationTrainingPipeline
+
+
