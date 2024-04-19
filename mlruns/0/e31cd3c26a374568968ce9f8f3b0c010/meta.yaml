@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/PROJECTS%20-%20AI/mlops-wine-quality-prediction/mlruns/0/e31cd3c26a374568968ce9f8f3b0c010/artifacts
+end_time: 1713495266085
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e31cd3c26a374568968ce9f8f3b0c010
+run_name: delicate-hound-402
+run_uuid: e31cd3c26a374568968ce9f8f3b0c010
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713495259114
+status: 3
+tags: []
+user_id: Acer

@@ -63,7 +63,7 @@ open up you local host and port
 
 MLFLOW_TRACKING_URI=https://dagshub.com/KavinduUoM20/mlops-wine-quality-prediction.mlflow \
 MLFLOW_TRACKING_USERNAME=KavinduUoM20 \
-MLFLOW_TRACKING_PASSWORD=ccc7584f86b9df4747eb1772f84f8865398733d7 \
+MLFLOW_TRACKING_PASSWORD=#### \
 python script.py
 
 Run this to export as env variables:
@@ -74,7 +74,7 @@ export MLFLOW_TRACKING_URI=https://dagshub.com/KavinduUoM20/mlops-wine-quality-p
 
 export MLFLOW_TRACKING_USERNAME=KavinduUoM20
 
-export MLFLOW_TRACKING_PASSWORD=ccc7584f86b9df4747eb1772f84f8865398733d7
+export MLFLOW_TRACKING_PASSWORD=###
 
 ```
 
@@ -111,7 +111,7 @@ export MLFLOW_TRACKING_PASSWORD=ccc7584f86b9df4747eb1772f84f8865398733d7
 
 ## 3. Create ECR repo to store/save docker image
 
-    - Save the URI: 566373416292.dkr.ecr.ap-south-1.amazonaws.com/mlproj
+    - Save the URI: 058264485329.dkr.ecr.eu-north-1.amazonaws.com/mlops-winequality-prediction
 
 ## 4. Create EC2 machine (Ubuntu)
 
@@ -145,7 +145,7 @@ export MLFLOW_TRACKING_PASSWORD=ccc7584f86b9df4747eb1772f84f8865398733d7
 
     AWS_REGION = us-east-1
 
-    AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
+    AWS_ECR_LOGIN_URI = demo>>
 
     ECR_REPOSITORY_NAME = simple-app
 
