@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/PROJECTS%20-%20AI/mlops-wine-quality-prediction/mlruns/0/e1c49ed47aca440f80057a7fa1565bcc/artifacts
+end_time: 1713492030317
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1c49ed47aca440f80057a7fa1565bcc
+run_name: capricious-fish-647
+run_uuid: e1c49ed47aca440f80057a7fa1565bcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713492024518
+status: 3
+tags: []
+user_id: Acer

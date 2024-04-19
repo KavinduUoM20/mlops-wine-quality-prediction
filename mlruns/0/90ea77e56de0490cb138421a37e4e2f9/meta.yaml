@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/PROJECTS%20-%20AI/mlops-wine-quality-prediction/mlruns/0/90ea77e56de0490cb138421a37e4e2f9/artifacts
+end_time: 1713491647394
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90ea77e56de0490cb138421a37e4e2f9
+run_name: skittish-fowl-843
+run_uuid: 90ea77e56de0490cb138421a37e4e2f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713491647249
+status: 4
+tags: []
+user_id: Acer
